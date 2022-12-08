@@ -24,7 +24,7 @@ eos-sharp: Implement CombinedSignerProvider to allow for multiple combined signa
 
   <ItemGroup>
     <PackageReference Include="Cryptography.ECDSA.Secp256K1" Version="1.1.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
   <ItemGroup>
